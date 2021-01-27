@@ -20,16 +20,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8871a0e4-52f1-4856-b3d6-9ac22a8b43ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/photos/2021/01/17/honda-nsx-nsx-honda-superkar-avto-mashina-art-rendering-yasi.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/photos/2021/01/17/speedhunters-honda-civic-eg6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/migrations/0003_auto_20210118_1434.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_webformyself/static/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_webformyself/static/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_webformyself/static/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_webformyself/static/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_webformyself/static/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_webformyself/static/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_webformyself/static/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_webformyself/static/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_webformyself/static/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_webformyself/static/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_webformyself/static/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_webformyself/static/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_webformyself/static/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_webformyself/static/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_webformyself/static/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_webformyself/static/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_webformyself/static/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_webformyself/static/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_webformyself/static/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_webformyself/static/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_webformyself/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/templates/news/category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/templates/news/list_categories.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/templates/news/view_news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/templatetags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/templatetags/news_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/inc/_nav.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/inc/_sidebar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/news/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/news/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_webformyself/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_webformyself/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/news/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/news/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/news/templates/news/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/templates/news/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/news/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/news/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/news/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +69,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
+        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -63,7 +90,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -108,7 +137,24 @@
       <workItem from="1610875765105" duration="7536000" />
       <workItem from="1610902553914" duration="2979000" />
       <workItem from="1610978580146" duration="2719000" />
-      <workItem from="1610990269987" duration="2866000" />
+      <workItem from="1610990269987" duration="3382000" />
+      <workItem from="1611043492845" duration="4618000" />
+      <workItem from="1611066046986" duration="70000" />
+      <workItem from="1611077987996" duration="7784000" />
+      <workItem from="1611237827012" duration="372000" />
+      <workItem from="1611248191967" duration="4795000" />
+      <workItem from="1611295316443" duration="1993000" />
+      <workItem from="1611313093072" duration="1221000" />
+      <workItem from="1611318816268" duration="3348000" />
+      <workItem from="1611402303282" duration="2596000" />
+      <workItem from="1611420725144" duration="763000" />
+      <workItem from="1611425179468" duration="760000" />
+      <workItem from="1611487142384" duration="7455000" />
+      <workItem from="1611555162663" duration="1829000" />
+      <workItem from="1611599154965" duration="4405000" />
+      <workItem from="1611640513298" duration="6725000" />
+      <workItem from="1611681368570" duration="1275000" />
+      <workItem from="1611728360581" duration="1813000" />
     </task>
     <servers />
   </component>
@@ -128,9 +174,17 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="461" y="205" width="1022" height="737" key="SettingsEditor" timestamp="1610993596074">
+    <state x="861" y="422" width="776" height="425" key="#Notifications" timestamp="1611078036278">
       <screen x="64" y="27" width="1856" height="1053" />
     </state>
-    <state x="461" y="205" width="1022" height="737" key="SettingsEditor/64.27.1856.1053@64.27.1856.1053" timestamp="1610993596074" />
+    <state x="861" y="422" width="776" height="425" key="#Notifications/64.27.1856.1053@64.27.1856.1053" timestamp="1611078036278" />
+    <state x="775" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1611682947536">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="775" y="311" width="424" height="491" key="FileChooserDialogImpl/64.27.1856.1053/1920.0.2560.1440@64.27.1856.1053" timestamp="1611682947536" />
+    <state x="461" y="205" width="1022" height="737" key="SettingsEditor" timestamp="1611251803668">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="461" y="205" width="1022" height="737" key="SettingsEditor/64.27.1856.1053@64.27.1856.1053" timestamp="1611251803668" />
   </component>
 </project>
